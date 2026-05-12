@@ -14,7 +14,7 @@ This tool provides a simple desktop interface for retrieving and exploring playe
 
 # Screenshot
 
-![RuneMetrics GUI Screenshot](assets/screenshot.png)
+<img width="635" height="542" alt="image" src="https://github.com/user-attachments/assets/0123213b-a9e1-4df0-969d-a7f991fb8e98" />
 
 # Requirements
 
